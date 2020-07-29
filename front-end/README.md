@@ -1,4 +1,9 @@
 # revisao
+Projeto criado para fazer um revisão com meus alunos do curso fullstack.
+Neste projeto vou revisar com eles:
+```
+Vue.js, vue-router, vuex, vuetify, autenticação, consumo de APIs Rest, DDD, Node.js, Sequelize, Postgre e outros.
+```
 
 ## Project setup
 ```
